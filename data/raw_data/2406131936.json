@@ -1,0 +1,287 @@
+{
+    "PageNo": 1,
+    "PageSize": 10,
+    "TotalCount": 846,
+    "Items": [
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89299,
+                "BuyPrice": 89299,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:37:40.7",
+                "BidCount": 0,
+                "BidStartPrice": 89299,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "오의 : 호왕출현",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "스트라이커"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89300,
+                "BuyPrice": 89300,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:28:48.077",
+                "BidCount": 0,
+                "BidStartPrice": 89300,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "가디언의 낙뢰",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "워로드"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89300,
+                "BuyPrice": 89300,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:28:53.86",
+                "BidCount": 0,
+                "BidStartPrice": 89300,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "선풍용류각",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "배틀마스터"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89300,
+                "BuyPrice": 89300,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:28:59.027",
+                "BidCount": 0,
+                "BidStartPrice": 89300,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "방천격",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "배틀마스터"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89400,
+                "BuyPrice": 89400,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:27:09.093",
+                "BidCount": 0,
+                "BidStartPrice": 89400,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "파이널 블로",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "슬레이어"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89400,
+                "BuyPrice": 89400,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:27:11.703",
+                "BidCount": 0,
+                "BidStartPrice": 89400,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "길로틴",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "슬레이어"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89500,
+                "BuyPrice": 89500,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:19:58.207",
+                "BidCount": 0,
+                "BidStartPrice": 89500,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "엘씨드",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "서머너"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89500,
+                "BuyPrice": 89500,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:20:12.613",
+                "BidCount": 0,
+                "BidStartPrice": 89500,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE_IDENTITY",
+                    "OptionName": "고대의 정령 스킬",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "서머너"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89500,
+                "BuyPrice": 89500,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:20:17.463",
+                "BidCount": 0,
+                "BidStartPrice": 89500,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "필법 : 올려치기",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "도화가"
+                }
+            ]
+        },
+        {
+            "Name": "9레벨 멸화의 보석",
+            "Grade": "전설",
+            "Tier": 3,
+            "Level": null,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_9_54.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 89500,
+                "BuyPrice": 89500,
+                "BidPrice": 0,
+                "EndDate": "2024-06-14T18:30:06.897",
+                "BidCount": 0,
+                "BidStartPrice": 89500,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_DAMAGE",
+                    "OptionName": "내공연소",
+                    "OptionNameTripod": "",
+                    "Value": 30,
+                    "IsPenalty": false,
+                    "ClassName": "배틀마스터"
+                }
+            ]
+        }
+    ]
+}

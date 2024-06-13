@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LostArc 보석</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">멸화의 보석 경메장 데이터</h1>
+
+        <!-- price_graph.png 이미지 추가 -->
+        <div class="mt-5">
+            <h2>Price Graph</h2>
+            <img src="{{ url_for('static', filename='price_graph.png') }}" alt="Price Graph" class="img-fluid">
+        </div>
+
+        {% if data %}
+        <table class="table table-bordered table-hover mt-3">
+            <thead class="thead-dark">
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                    <th>BuyPrice</th>
+                    <th>EndDate</th>
+                    <th>Class-Option</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in data %}
+                <tr>
+                    <td><img src="{{ item.Icon }}" alt="{{ item.Name }}" height="50"></td>
+                    <td>{{ item.Name }}</td>
+                    <td>{{ item.BuyPrice }}</td>
+                    <td>{{ item.EndDate[:10] }}</td>
+                    <td>{{ item.ClassName }} - {{ item.OptionName }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p>데이터가 없습니다.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
